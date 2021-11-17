@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Aww love you <3",
   text7: "Why do you like me :vvvv",
   text8: "Send me <3",
-  text9: "Because you're sooooo handsome :333",
+  text9: "Because you're sooooo handsome :<<<<<",
   text10: "I know that ^^ I love you 300,000",
   text11:
     "I'll come pick you up tonight :v What are you waiting for without inboxing me",
