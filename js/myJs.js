@@ -10,8 +10,8 @@ const textConfig = {
   text9: "Because you're sooooo handsome :<<<<<",
   text10: "I know that ^^ I love you 300,000",
   text11:
-    "I'll come pick you up tonight :v What are you waiting for without inboxing me",
-  text12: "Okay <3",
+    "I'll come pick you up tonight :v What are you waiting for, inbox me :)",
+  text12: "Okayy <3",
 };
 
 $(document).ready(function () {
